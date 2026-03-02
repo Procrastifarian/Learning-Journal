@@ -1,0 +1,54 @@
+"You're Holding it Wrong"
+	Prompt engineering is a powerful tool, but it shouldn't be an excuse for AI flaws
+
+What is Prompt Engineering?
+	The art of refining inputs to get optimal AI outputs.
+
+The Prompt Framework (T-C-R-E-I)
+
+1.TASK
+	Persona: Who is the AI?
+	Format: Output Type
+
+2.CONTEXT
+	Good: "Ideas for a gift under $30."
+	Great:"5 ideas for a 29-year-old who loves wintter sports and just switched from snowboarding to skiing. Budget: $30."
+	
+3. REFERENCE
+	Provide additional data, examples, or specific ideas to guide the AI.
+	Attached is documentation about the coding framework we are using.
+	Here are some examples of similar outputs we liked in the past.
+	
+4. EVALUATE
+	Review the output. Does it meet the requirements?
+
+5.ITERATE
+	Feed errors back in.
+	Add more detail or refine the constraints
+
+
+ALWAYS BE ITERATING
+If results are lacking, try these steps:
+	Markup up your prompt into T-C-R 
+		T: Make a schedule for the team.
+		C: Specific details about individual schedules.
+		R: Past schedule templates.
+		
+Seperate into shorter tasks
+	Dont use "Monolithic" prompts
+	Break "Summarize and Graph" into two distinct steps.
+		^ Breaking it into pieces "Summarize/Graph" so that it can do its job better
+ 
+ REFINEMENT STRATEGIES
+1.	Trydifferent phrasing
+		Use and Analogous Task: Instead of ""Writing a marketing plan," try
+		"write a story about how this product firts into a customers life."
+
+2.	Introduce Constraints
+		"Only music from Canada"
+		"Recipes that take less than 30 minutes."
+		
+DEMO:
+Scenario: creating a Weather Cucle Diagram
+	Attempt1: Simple answer, to the point
+	Attempt2(elaborated): Better answer, better diagram
