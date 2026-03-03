@@ -1,0 +1,160 @@
+LU2 Notes
+Isaiah Kinney
+3/3/2026
+
+Prompt #1:
+
+I'm a gym manager and we have anew gym schedule.
+Write an email informing our staff of the new schedule.
+Highlight the fact the M/W/F Cardio Blast class changed from 7:00 am to 6 am.
+Make the email professional and friendly, and short so that readers can skim it quickly.
+Here is the new schedule:
+	Response:
+	
+		Subject: Updated Gym Schedule - Important Time Change for Cardio Blast
+
+		Hi Team,
+
+		Please find our updated gym schedule below. There is one important change to note:
+
+		**Cardio Blast on Monday, Wednesday, and Friday has moved from 7:00 AM to 6:00 AM.**
+
+		Here's the complete schedule:
+
+		Monday:
+		- 6:00 AM - Cardio Blast (John Smith) - NEW TIME
+		- 8:00 AM - Yoga (Mary Johnson)
+		- 12:00 PM - Pilates (David Lee)
+
+		Tuesday:
+		- 7:00 AM - Strength Training (Sarah Kim)
+		- 9:00 AM - Spinning (Michael Brown)
+
+		Wednesday:
+		- 6:00 AM - Cardio Blast (John Smith) - NEW TIME
+		- 11:00 AM - Zumba (Emily Chen)
+
+		Thursday:
+		- 7:00 AM - Yoga (Mary Johnson)
+		- 5:00 PM - Body Pump (David Lee)
+
+		Friday:
+		- 6:00 AM - Cardio Blast (John Smith) - NEW TIME
+		- 7:00 PM - Core Strength (Sarah Kim)
+
+		Please update your personal calendars and inform any members who may be affected by the Cardio Blast time change. Thanks for your flexibility!
+
+		Best regards,
+		[Your Name]
+		Gym Manager
+		
+Prompt#2
+
+Now write a concise, consumer-facing email with this same information.
+Explain that this new schedule will help us better serve them.
+Make the tone fun and friendly.
+Include a pun about lifting weights.
+	Response:
+	
+		Subject: Get Ready to Flex on Our New Schedule! 💪
+
+		Hey there, fitness fam!
+
+		We've been working out a new schedule to better serve you, and we're excited to share the updates! We've made some changes to help you crush your fitness goals with even more flexibility.
+
+		**The biggest change:** Our popular Cardio Blast class is now earlier! Join John Smith on **Monday, Wednesday, and Friday at 6:00 AM** (previously 7:00 AM) to start your day with an energy boost!
+
+		Here's your new lineup:
+
+		**Monday**
+		- 6:00 AM - Cardio Blast (John Smith)
+		- 8:00 AM - Yoga (Mary Johnson)
+		- 12:00 PM - Pilates (David Lee)
+
+		**Tuesday**
+		- 7:00 AM - Strength Training (Sarah Kim)
+		- 9:00 AM - Spinning (Michael Brown)
+
+		**Wednesday**
+		- 6:00 AM - Cardio Blast (John Smith)
+		- 11:00 AM - Zumba (Emily Chen)
+
+		**Thursday**
+		- 7:00 AM - Yoga (Mary Johnson)
+		- 5:00 PM - Body Pump (David Lee)
+
+		**Friday**
+		- 6:00 AM - Cardio Blast (John Smith)
+		- 7:00 PM - Core Strength (Sarah Kim)
+
+		We hope these changes help you find the perfect time to lift your spirits (and weights)! 😉 If you have any questions, just ask our front desk team.
+
+		Can't wait to see you in class!
+
+		Stay strong,
+		Your Gym Team
+		
+Prompt #3:
+
+I'm a marketer for a well-known video game producer known for creating immersive story-based online video games.
+I'm planning the launch of a new medieval fantasy role playing game that follows the path of a young protagonist searching for their missing partner.
+The game is reaching the end of development, and I need help creating a timeline before it goes live. Provide a rough time line for the year leading up to its launch.
+Also, provide some pre-launch ideas to help generate buzz around the game.
+	Response:
+		Here is a rough timeline for the year leading up to your game's launch, along with pre-launch ideas to generate buzz.
+
+		### Pre-Launch Timeline (12 Months Before Launch)
+
+		**12-9 Months Out: Foundation Building & Community Seeding**
+		*   **Internal Goal:** Solidify the final marketing budget, key messaging, and target audience personas.
+		*   **External Action:** Begin "soft" marketing. Reveal the game's title and a single, evocative piece of key art. Create social media accounts and start posting cryptic lore, world-building snippets, or character art to build an initial follower base of core fans.
+		*   **Press/Influencers:** Identify and build a "wish list" of key press outlets and influencers. Begin initial, informal outreach to gauge interest.
+
+		**8-6 Months Out: The First Big Reveal**
+		*   **Internal Goal:** Prepare your first major marketing assets: a cinematic announcement trailer and a press kit.
+		*   **External Action:** Drop the announcement trailer. Coordinate a press embargo with major outlets to ensure a wave of coverage goes live simultaneously. This is the moment you tell the world what the game is.
+		*   **Community Action:** Launch the official Discord server and a developer blog. Use the trailer's momentum to drive fans to these hubs for deeper engagement.
+
+		**5-4 Months Out: Gameplay Deep Dive & Community Engagement**
+		*   **Internal Goal:** Showcase the core gameplay loop and systems.
+		*   **External Action:** Release a "Gameplay Deep Dive" video or a 15-minute narrated walkthrough from a lead designer. This moves beyond hype and shows players *why* they will want to play it.
+		*   **Community Action:** Host your first developer Q&A on Discord or Twitch. Run your first major community contest (e.g., "Design a minor in-game item" or "Name a location on the map").
+
+		**3 Months Out: Building the Hype Machine**
+		*   **Internal Goal:** Solidify your launch day plans and digital store presence.
+		*   **External Action:** Launch a pre-order or wishlist campaign. Offer exclusive in-game items (e.g., a unique weapon skin, a companion pet) as an incentive. Begin running targeted digital ads on platforms like Twitch, YouTube, and social media.
+		*   **Press/Influencers:** Start sending out early press keys to trusted reviewers under a strict NDA. The goal is to have reviews ready to go live on or just before launch day.
+
+		**2 Months Out: The Story Hook**
+		*   **Internal Goal:** Focus on the emotional core of the game.
+		*   **External Action:** Release a "Story Trailer" that focuses on the protagonist's journey and the emotional stakes of finding their missing partner. This is your chance to connect with players on an emotional level.
+		*   **Community Action:** Release a digital art book or a "Making Of" short documentary series showing the passion and craft behind the game's development.
+
+		**1 Month Out: The Final Push**
+		*   **Internal Goal:** Prepare for launch day logistics.
+		*   **External Action:** Ramp up ad spend significantly. Release short, punchy trailers and character spotlights. Partner with major streamers for sponsored "first look" streams in the week leading up to launch.
+		*   **Community Action:** Host a "Launch Eve" community event on Discord with the development team, answering final questions and celebrating the journey.
+
+		**Launch Week: Go Live**
+		*   **Internal Goal:** Monitor server stability, social media sentiment, and sales data.
+		*   **External Action:** Ensure all press reviews and influencer content go live. Engage heavily with the community, celebrating their launch day achievements and sharing their content. Be transparent and responsive to any launch-day issues.
+
+		### Pre-Launch Ideas to Generate Buzz
+
+		1.  **The "Missing Partner" ARG (Alternate Reality Game):**
+			Create an immersive, multi-platform puzzle. Start with cryptic messages in your trailers or on social media. This could lead players to a fake in-game website, a series of phone numbers they can call, or geocached items in real-world locations. The final puzzle could reveal the name of the missing partner or a key plot point.
+
+		2.  **"Letters from the Road" Community Storytelling:**
+			Frame your social media updates as letters or journal entries written by the protagonist as they search for their partner. Let the community vote on certain choices the protagonist makes ("Which path should I take through the Whispering Woods?"), making them feel like they are part of the journey.
+
+		3.  **Lore-Driven Physical Mailers:**
+			For press and top-tier influencers, don't just email a press kit. Send a physical package. It could be a "worn" leather-bound journal, a "tattered" map of the game world, a wax-sealed letter from the missing partner, or a small, handcrafted prop from the game. This creates an unboxing experience that is highly shareable.
+
+		4.  **The "Bard's Tale" Music Collaboration:**
+			Commission a well-known fantasy musician or band to write and perform a song from the perspective of the protagonist or their missing partner. Release the song on streaming platforms and create a beautiful animated lyric video to go with it.
+
+		5.  **"Forge Your Legacy" Character Creator Early Access:**
+			Release a standalone version of your game's robust character creator a few months before launch. Let players design their protagonist and share screenshots online using a unique hashtag. This gets people invested in their character before they even start the game.
+
+		6.  **"Cartographer's Challenge" World-Building Contest:**
+			Release a high-resolution, but incomplete, map of your game world. Challenge your community to fill in the blanks—naming locations, writing short legends for certain areas, or drawing their own points of interest. Feature the best contributions on the official map and credit the creators in-game.
