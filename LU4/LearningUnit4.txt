@@ -1,0 +1,17 @@
+#Isaiah Kinney
+3/20/2026
+
+Cookie Clicker Project:
+
+	In vibe coding the Cookie clicker, I was not successfully able to get it to work. I tried a few combinations of prompts using
+		Venice AI, but even then began to crash upon itself. All in all, Vibe Coding is only a useful tool if the person doing it
+		is in a position to ensure that the code itself is functional, as well as being able to address and fix any errors. Overall,
+		no that impressed with what it was "able to do".
+		
+Broken Skyrim Store Project:
+
+	The most disapointing one, as for I was not able to get a proper prompt to provide me the results I was needing: A functioning interface.
+		What was perhaps more defeating, that it seemed as if my other classmates had little resistance and successful projects, yet time and time
+		again of restarting and even altering things it was doing correctly, I still was not able to successfully get the program up to snuff. Overall,
+		the most disapointing out of the two, as for I was sure the CoPilot in Microsoft Visual Studio would have been able to handle a rather "simple"
+		task of editing broken code.
