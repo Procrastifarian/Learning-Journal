@@ -1,0 +1,8 @@
+Isaiah Kinney
+3/31/2026
+LU05 Journal Entry Check-In
+
+It has been quite interesting to be setting up VM's. At first, it was an overwhelimg
+ experince, but after some patience and trial and error I was able to set up my own.
+ It was fun setting up my Hannah Montanna VM. After some tinkering (not being able to use
+ the terminal commands for whatever reason). Thank you Mr. Luke!
